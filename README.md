@@ -13,9 +13,11 @@ Proposed Architecture: Convolutional Attention Autoencoders
 ### Results:
 
 With KDD Train+ Split data
+
 <img width="566" alt="image" src="https://github.com/argon125/Anomaly-Detection-using-Autoencoders/assets/64146402/e5c7fdbf-9884-4060-9489-5e542f2705b3">
 
 With KDD Test+ data
+
 <img width="561" alt="image" src="https://github.com/argon125/Anomaly-Detection-using-Autoencoders/assets/64146402/ee2c2e15-c1ac-40f0-a38f-c8f1f6360357">
 
 
