@@ -6,6 +6,6 @@ Network Intrusion Detection System (NIDS). Machine learning techniques heavily d
 
 Keywords: Intrusion Detection Systems, Feature Extraction, Attention, Stacked Autoencoders, Convolution Autoencoders.
 
-### *Link to Paper: Paper accepted and will be shortly published by the Arabian Journal of Science and Engineering*
+### Link to Paper: https://link.springer.com/article/10.1007/s13369-024-08951-5
 ### Authors: Arrun Sivasubramanian, Mithil Sri Sai Devisetty, Premjith B
-### Affiliation: Centre for Computational Engineering and Networking, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu, India 
+### Affiliation: Amrita School of Artificial Intelligence, Coimbatore, Amrita Vishwa Vidyapeetham, Tamil Nadu, India 
